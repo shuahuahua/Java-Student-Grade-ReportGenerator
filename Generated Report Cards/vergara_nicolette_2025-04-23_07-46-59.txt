@@ -1,0 +1,13 @@
+Student Report Card
+====================
+Student ID: 2024000004
+Name: Nicolette Vergara
+
+Filipino                            92
+English                             94
+Math                                96
+Mapeh                               90
+Science                             95
+Araling Panlipunan                  93
+
+Average Grade                       93.33

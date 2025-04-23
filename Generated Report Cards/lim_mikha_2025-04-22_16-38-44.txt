@@ -1,0 +1,13 @@
+Student Report Card
+====================
+Student ID: 2024000003
+Name: Mikha Lim
+
+Filipino                            85
+English                             86
+Math                                84
+Mapeh                               87
+Science                             83
+Araling Panlipunan                  82
+
+Average Grade                       84.50

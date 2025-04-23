@@ -1,0 +1,13 @@
+Student Report Card
+====================
+Student ID: 2024000002
+Name: Sheena Catacutan
+
+Filipino                            87
+English                             90
+Math                                88
+Mapeh                               91
+Science                             90
+Araling Panlipunan                  86
+
+Average Grade                       88.67

@@ -1,0 +1,13 @@
+Student Report Card
+====================
+Student ID: 2024000001
+Name: Maloi Ricalde
+
+Filipino                            91
+English                             89
+Math                                93
+Mapeh                               88
+Science                             92
+Araling Panlipunan                  85
+
+Average Grade                       89.67
