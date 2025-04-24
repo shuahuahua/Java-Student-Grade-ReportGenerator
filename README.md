@@ -1,4 +1,4 @@
-# Student Card Report Generator made with Java
+# Java Case Study: Student Grade Report Generator
 
 ## Overview
 
