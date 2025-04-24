@@ -20,18 +20,13 @@ This project demonstrates expertise in working with real-world datasets and high
 
 ## Dataset
 
-The Iris dataset, a well-known standard in data science, includes samples from three species of iris flowers: Setosa, Versicolor, and Virginica. By utilizing advanced machine learning libraries and techniques, this project develops a classification model that learns intricate patterns within the dataset to make accurate predictions on new data.
+The project utilizes a CSV file (bini_grades.csv) containing student names and their respective grades. This data is parsed and processed to compute final grades, evaluate student performance, and generate detailed reports.
 
 ## Tools and Libraries
 
-- Jupyter Notebook  
-- Visual Studio Code  
-- Python  
-- [Pandas](https://pandas.pydata.org/)  
-- [NumPy](https://numpy.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [Seaborn](https://seaborn.pydata.org)  
-- [Scikit-Learn](https://scikit-learn.org)
+- Java (JDK) – Core programming language  
+- IntelliJ IDEA – IDE used for project development
+- Standard Java I/O libraries – For reading CSV files and writing text reports
 
 ## Installation
 
@@ -40,26 +35,27 @@ To set up and execute this analysis on your local system, follow these instructi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shuahuahua/Iris-Classifier-using-Multiple-Perceptron.git
+   git clone https://github.com/yourusername/JavaCaseStudy.git
 
 
-2. Install the required dependencies:
+2. Open the project in IntelliJ IDEA or any Java-compatible IDE.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. Ensure Java SDK is configured properly in your environment.
 
 ## Usage
 
-1. Open the iris_classifier.ipynb file in Visual Studio Code or any Jupyter Notebook-compatible environment.
-2. Execute the notebook cells in sequential order to perform the analysis and classification step by step.
+1. Place the bini_grades.csv file inside the root project folder.
+
+2. Run the main class to execute the report generation.
+
+3. Check the Generated Report Cards folder for the output .txt files.
 
 ## Results
 
-The outcomes of the model training and prediction are documented within the Jupyter Notebook. These include data visualizations, statistical analysis, and key findings from the study.
+The project generates a text-based report card for each student, including their name, subject-wise grades, and remarks. These reports are timestamped for reference and organized within the Generated Report Cards directory.
 
 ## Contributing
 
-If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request. Your contributions and feedback are highly appreciated and will help improve the project!
+Feel free to fork this project, make enhancements, and submit a pull request. For major changes, please open an issue first to discuss what you would like to improve.
 
 ---
